@@ -1,6 +1,6 @@
 # 🐾 Clínica Veterinária - Sistema em Java
 
-Sistema de gerenciamento para uma Clínica Veterinária, desenvolvido em Java com arquitetura MVC (Model-View-Controller). Permite o controle completo de clientes, animais, veterinários, espécies e o gerenciamento de consultas, tratamentos, exames e pagamentos.
+Sistema de gerenciamento para uma Clínica Veterinária, desenvolvido em Java com arquitetura MVC (Model-View-Controller). A aplicação utiliza operações CRUD (Create, Read, Update, Delete) no banco de dados. Permite o controle completo de clientes, animais, veterinários, espécies e o gerenciamento de consultas, tratamentos, exames e pagamentos.
 
 ## Funcionalidades
 
@@ -30,7 +30,7 @@ O sistema segue o padrão MVC, dividido em:
 
 ## Imagens da Interface
 
-### lientes
+### Clientes
 <img src="imagens/Cliente.png" alt="Cadastro de Clientes" width="700"/>
 
 ---

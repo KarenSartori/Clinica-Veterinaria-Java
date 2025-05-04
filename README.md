@@ -28,5 +28,43 @@ O sistema segue o padrão MVC, dividido em:
 - Armazenamento local 
 - Interface gráfica
 
-## Imagens
+## Imagens da Interface
+
+### lientes
+<img src="imagens/Cliente.png" alt="Cadastro de Clientes" width="700"/>
+
+---
+
+### Animais
+<img src="imagens/Animais.png" alt="Cadastro de Animais" width="700"/>
+
+---
+
+### Veterinários
+<img src="imagens/Veterinarios.png" alt="Cadastro de Veterinários" width="700"/>
+
+---
+
+### Espécies
+<img src="imagens/Especies.png" alt="Cadastro de Espécies" width="700"/>
+
+---
+
+### Consultas
+<img src="imagens/Consultas.png" alt="Consultas Agendadas" width="700"/>
+
+---
+
+### Pagamentos
+<img src="imagens/Pagamentos.png" alt="Pagamentos" width="700"/>
+
+---
+
+### Tratamentos
+<img src="imagens/Tratamentos.png" alt="Tratamentos" width="700"/>
+
+---
+
+### Exames
+<img src="imagens/Exames.png" alt="Exames" width="700"/>
 
